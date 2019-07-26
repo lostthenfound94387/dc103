@@ -3,6 +3,7 @@ aaaa
 # dc102_FF&NFF_lab
 # we'll use master,Nonforward & Forward for branch
 # BingHong is god
+<<<<<<< HEAD
 # yellow country book
 #GOGO POWER RANGER
 =======
@@ -13,12 +14,18 @@ qwdqwdqwdqwddqwd
 # yellow counItry book
 # ohohohohohoh
 =======
-qwdqwdqwdqwddqwd
 =======
+#123456789
+
+#tobytobytoby
+>>>>>>> fbe22c8fc7b79d4e9c4fc33d6acd8848d5a0ce78
+qwdqwdqwdqwddqwd
 #tobytobytoby
 #Adds
 # yellow counItry book
 # ohohohohohoh
+#8ting is go
+
 # yellow country book
 #HAHAHAHA
 #sadw
@@ -31,6 +38,7 @@ qwdqwdqwdqwddqwd
 #ting is god
 # 秉鴻就是快就是爽
 
+<<<<<<< HEAD
 =======
 #666666666666
 FFFFFFFFFFFFFFFFF
@@ -38,6 +46,8 @@ FFFFFFFFFFFFFFFFF
 =======
 >>>>>>> 23189fd917ea0f791b6f848851ee10c632e3e178
 =======
+=======
+>>>>>>> fbe22c8fc7b79d4e9c4fc33d6acd8848d5a0ce78
 #666666666666
 #so sad
 #ggggggggggg
@@ -47,6 +57,12 @@ FFFFFFFFFFFFFFFFF
 #ggggggggggg
 #1541564
 #Tobytobybyo
+<<<<<<< HEAD
+=======
+#646545666
+betch
+
+>>>>>>> fbe22c8fc7b79d4e9c4fc33d6acd8848d5a0ce78
 
 
 
@@ -55,8 +71,12 @@ FFFFFFFFFFFFFFFFF
 
 
 
+<<<<<<< HEAD
 =======
 FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
 qwdqwdqwdqwd
 #iamturtle
 =======
+=======
+>>>>>>> fbe22c8fc7b79d4e9c4fc33d6acd8848d5a0ce78
+13131313
