@@ -12,7 +12,7 @@
 #ting is god
 # 秉鴻就是快就是爽
 <<<<<<< HEAD
-
+#666666666666
 FFFFFFFFFFFFFFFFF
 =======
 #ggggggggggg
