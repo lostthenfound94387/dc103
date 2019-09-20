@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aaaa
 =======
 # dc102_FF&NFF_lab
@@ -38,3 +39,9 @@ qwdqwdqwdqwddqwd
 
 HHHhh
 >>>>>>> d9b6c4d3f9e9b24265dc6f8e322a0f38f0218367
+=======
+asdfka;sfk
+;alsf;lasdfk
+la;sfk;lasfkFK:AKSDF
+DC103-5
+>>>>>>> 4d45fe5369f844946cca539e3e11bd973c3a3dd7
